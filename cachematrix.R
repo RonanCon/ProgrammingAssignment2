@@ -1,6 +1,6 @@
 ## Creates a matrix object that can calculate its own inverse (a)
 ## and caches that value which can be recalled until the input 
-## matrix is changed
+## matrix is changed. Based on the sample functions provided in the ##assignment
 
 ## This function creates the object which holds the input matrix
 ## and defines the variables and functions required to cache the 
